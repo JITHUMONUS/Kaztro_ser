@@ -1,10 +1,10 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+𝙺𝚊𝚣𝚝𝚛𝚘𝚜𝚎𝚛+WA+Bot+repo;Created+by+Aj+fx;This+is+a+userbot+privet+and+public+bot;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+oggyser+WA+Bot+repo;Created+by+Aj+fx;This+is+a+userbot+privet+and+public+bot;With+more+features)](https://git.io/typing-svg)
  
   <p align="center">
-<span class="avatar"><img height='320' src="https://i.imgur.com/KUaX2XT.jpeg"> </a></span> 
+<span class="avatar"><img height='320' src="OGGYSER.jpg"> </a></span> 
 </p>
   <p align="center">
-<a href="https://github.com/aj-fx"><img title="Author" src="https://img.shields.io/badge/Owner-𝗔𝗝𝗙𝗫-Ajfx/Kaztroserv2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/JITHUMONUS"><img title="Author" src="https://img.shields.io/badge/Owner-𝗔𝗝𝗙𝗫-Ajfx/Kaztroserv2?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 <p align="center">
 ᴘʀᴏᴊᴇᴄᴛ ᴍᴏᴅɪғɪᴇᴅ ʙʏ<a href="https://github.com/cyberchekuthan">ᴀͥᴊͭᴀᷤʏᴀͫɴͤ</a>
@@ -24,7 +24,7 @@
 <a href="https://github.com/signup/"><span class="avatar"><img height='120' src="./photo/Kaztroser-19.png" alt="Error"> </a></span>
  
 2.
-<a href="https://replit.com/@Aj-fx/Kaztroser?v=1"><span class="avatar"><img height='120' src="./photo/Kaztroser-16.png" alt="Error"> </a></span>
+<a href="https://replit.com/@JITHUMONUS/Kaztroser?v=1"><span class="avatar"><img height='120' src="./photo/Kaztroser-16.png" alt="Error"> </a></span>
   
 3.
 <p align="center">
@@ -32,24 +32,24 @@
 
 4.
 <p align="center">
- <a href="https://github.com/Aj-fx/Kaztro_ser/fork"><span class="avatar"><img height='120' src="./photo/Kaztroser-23.png" alt="Error"> </a></span>
+ <a href="https://github.com/JITHUMONUS/Oggyser/fork"><span class="avatar"><img height='120' src="./photo/Kaztroser-23.png" alt="Error"> </a></span>
 
-5. https://heroku.com/deploy?template=https://github.com/Aj-fx/Kaztro_ser copy this url and change Aj-fx with your github username and go<br>
+5. https://heroku.com/deploy?template=https://github.com/JITHUMONUS/Oggyser copy this url and change JITHUMONUS with your github username and go<br>
 
 
   <p align="center">
-  <a href="httsp://github.com/Aj-fx/Kaztro_ser">
+  <a href="httsp://github.com/JITHUMONUS/Oggyser">
    <p align="center">
-<a href="https://github.com/Aj-fx/Kaztro_ser/blob/master/plugins/README.md"><span class="avatar"><img height='20' src="https://komarev.com/ghpvc/?username=Aj-fx&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic" alt="Error"> </a></span>
-<a href="https://github.com/Aj-fx/followers">
+<a href="https://github.com/JITHUMONUS/Oggyser/blob/master/plugins/README.md"><span class="avatar"><img height='20' src="https://komarev.com/ghpvc/?username=JITHUMONUS&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic" alt="Error"> </a></span>
+<a href="https://github.com/JITHUMONUS/followers">
   <p align="center">
-<img src="https://img.shields.io/github/repo-size/Aj-fx/Kaztro_ser?color=green&label=Repo%20total%20size&style=plastic">
+<img src="https://img.shields.io/github/repo-size/JITHUMONUS/Oggyser?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Aj-fx/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/Aj-fx?color=blue&style=flat-square"></a>
-<a href="https://github.com/Aj-fx/Kaztro_ser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Aj-fx/Kaztro_ser?color=blue&style=flat-square"></a>
-<a href="https://github.com/Aj-fx/Kaztro_ser/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Aj-fx/Kaztro_ser?color=blue&style=flat-square"></a>
-<a href="https://github.com/Aj-fx/Kaztro_ser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Aj-fx/Kaztro_ser?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/JITHUMONUS/followers"
+<img title="Followers" src="https://img.shields.io/github/followers/JITHUMONUS?color=blue&style=flat-square"></a>
+<a href="https://github.com/JITHUMONUS/Oggyser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/JITHUMONUS/Oggyser?color=blue&style=flat-square"></a>
+<a href="https://github.com/JITHUMONUS/Oggyser/network/members"><img title="Forks" src="https://img.shields.io/github/forks/JITHUMONUS/Oggyser?color=blue&style=flat-square"></a>
+<a href="https://github.com/JITHUMONUS/Oggyser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/JITHUMONUS/Oggyser?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
